@@ -1,1 +1,1 @@
-# exam-in-golang
+# Channels
